@@ -1,4 +1,4 @@
-<img src="./persona2.jg">
+<img src="./persona2.jpg">
 <img src="./persona1.jpg">
 <img src="./buildings.png">
 <img src="./rei.jpg">
