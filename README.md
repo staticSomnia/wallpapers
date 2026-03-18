@@ -9,6 +9,9 @@ cd into the directory then run
 git lfs install
 ```
 ```bash
+git lfs track *
+```
+```bash
 git lfs fetch
 ```
 im pretty new to git and only have a basic understanding of how to use it
