@@ -17,9 +17,6 @@ git lfs fetch
 ```bash
 git lfs checkout
 ```
-im pretty new to git and only have a basic understanding of how to use it
-
-so if there is a better way of doing this feel free to help me out
 
 
 
