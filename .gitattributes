@@ -9,7 +9,6 @@ persona1.jpg filter=lfs diff=lfs merge=lfs -text
 sunset.jpg filter=lfs diff=lfs merge=lfs -text
 92.png filter=lfs diff=lfs merge=lfs -text
 94.png filter=lfs diff=lfs merge=lfs -text
-animated filter=lfs diff=lfs merge=lfs -text
 Beach.jpg filter=lfs diff=lfs merge=lfs -text
 fuji.png filter=lfs diff=lfs merge=lfs -text
 ichigo_sword.jpeg filter=lfs diff=lfs merge=lfs -text
@@ -44,12 +43,6 @@ glt.png filter=lfs diff=lfs merge=lfs -text
 Echidna.jpg filter=lfs diff=lfs merge=lfs -text
 glt2.png filter=lfs diff=lfs merge=lfs -text
 central.png filter=lfs diff=lfs merge=lfs -text
-animated/bocchi.mp4 filter=lfs diff=lfs merge=lfs -text
-animated/moonlit-night-sakura-minecraft-moewalls-com.mp4 filter=lfs diff=lfs merge=lfs -text
-animated/totoro-starry-night-sky.mp4 filter=lfs diff=lfs merge=lfs -text
-animated/city.gif filter=lfs diff=lfs merge=lfs -text
-animated/fireplace.gif filter=lfs diff=lfs merge=lfs -text
-animated/Gas-Station.mp4 filter=lfs diff=lfs merge=lfs -text
 hill.png filter=lfs diff=lfs merge=lfs -text
 rei3.png filter=lfs diff=lfs merge=lfs -text
 snow.png filter=lfs diff=lfs merge=lfs -text

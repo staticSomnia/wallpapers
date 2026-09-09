@@ -10,7 +10,6 @@ git lfs install
 ```
 ```bash
 git lfs track *
-git lfs track animated/*
 ```
 ```bash
 git lfs fetch
