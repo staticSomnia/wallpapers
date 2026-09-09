@@ -24,7 +24,6 @@ tele.jpg filter=lfs diff=lfs merge=lfs -text
 buildings.png filter=lfs diff=lfs merge=lfs -text
 Ocean.jpg filter=lfs diff=lfs merge=lfs -text
 power_lines_and_trees_at_sunset.jpg filter=lfs diff=lfs merge=lfs -text
-README.md filter=lfs diff=lfs merge=lfs -text
 rei2.jpg filter=lfs diff=lfs merge=lfs -text
 rei3.jpg filter=lfs diff=lfs merge=lfs -text
 25.jpg filter=lfs diff=lfs merge=lfs -text
